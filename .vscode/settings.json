@@ -1,6 +1,0 @@
-{
-    "files.associations": {
-        "*.nse": "lua",
-        "exception": "cpp"
-    }
-}

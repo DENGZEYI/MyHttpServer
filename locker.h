@@ -1,6 +1,6 @@
 #ifndef LOCKER_H
 #define Locker_H
-#pragma once
+
 #include <exception>
 #include <pthread.h>
 #include <semaphore.h>
